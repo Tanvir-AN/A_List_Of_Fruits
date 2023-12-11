@@ -4,17 +4,17 @@ void main() {
     {
       'name': 'Apple',
       'color': 'Red',
-      'price': 2.50,
+      'price': 250,
     },
     {
       'name': 'Banana',
       'color': 'Yellow',
-      'price': 1.25,
+      'price': 125,
     },
     {
       'name': 'Orange',
       'color': 'Orange',
-      'price': 3.00,
+      'price': 300,
     },
   ];
 
